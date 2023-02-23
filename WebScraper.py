@@ -8,20 +8,6 @@ import time
 import os
 import re
 
-# https://anyflipdownload.com/njbp/ired/#pages
-# https://anyflipdownload.com/njbp/ired/mobile/#pages
-# https://online.anyflip.com/njbp/ired/files/mobile/1.jpg
-# https://anyflip.com/njbp/ired
-
-# https://anyflipdownload.com/nlqlf/gizt/#pages
-
-# Links for actual download and conversion work
-# https://anyflip.com/nxlax/qidf/
-# https://anyflip.com/nxlax/ikby/
-# https://anyflip.com/nxlax/dzhk/
-# https://anyflip.com/nxlax/vism/
-# https://anyflip.com/nxlax/curb/
-
 # make download link
 url = input('Anyflipdownload link: ')
 
